@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server",
+    "compile:sass": "sass sass/main.scss css/style.css --no-source-map --watch --verbose"
+  },
+  "keywords": [],
+  "author": "Travis Briscoe",
+  "license": "ISC"
+}
